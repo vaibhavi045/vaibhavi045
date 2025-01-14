@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhavi Sawant</h1>
-<h3 align="center">Second Year Student at UMIT</h3>
+<h3 align="center">Passionate Programmer</h3>
 
 - 🌱 I’m currently learning **Web Development**
 
